@@ -23,4 +23,3 @@ int tong(int a, int b){
 int hieu(int a, int b){
 	return a-b;
 }
-//daxoa
