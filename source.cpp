@@ -23,4 +23,9 @@ int tong(int a, int b){
 int hieu(int a, int b){
 	return a-b;
 }
-//daxoa
+int tich(int a, int b){
+	return a*b;
+}
+boolean isChanLe(int a){
+	return a%==0;
+}
