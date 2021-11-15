@@ -17,3 +17,12 @@ int main()
 	system("pause");
 	return 0;
 }
+int tong(int a, int b){
+	return a+b;
+}
+int hieu(int a, int b){
+	return a-b;
+}
+int tich(int a, int b){
+	return a*b;
+}
