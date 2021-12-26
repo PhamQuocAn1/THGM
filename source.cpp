@@ -17,9 +17,15 @@ int main()
 	system("pause");
 	return 0;
 }
+
+boolean isChanLe(int a){
+	return a%==0;
+}
+
 int tong(int a, int b){
 	return a+b;
 }
 int hieu(int a, int b){
 	return a-b;
 }
+
